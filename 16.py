@@ -1,7 +1,4 @@
 def main():
-   
-
-
  lower = int(input(" "))
  upper = int(input(""))
  for num in range(lower,upper + 1):
