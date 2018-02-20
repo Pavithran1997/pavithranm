@@ -8,9 +8,9 @@ def main():
    sum += digit ** 3
    temp //= 10
  if num == sum:
-   print("Yes")
+   print("Yes It's a armstrong")
  else:
-   print("No")
+   print("Not a armstrong")
 
 if __name__ == '__main__':
     main()
