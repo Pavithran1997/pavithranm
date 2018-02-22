@@ -6,7 +6,7 @@ def sumOfAP( a, d,n) :
         a = a + d
         i = i + 1
     return sum
-n =2
-a =2
-d =2
+n =5
+a =10
+d =9
 print (sumOfAP(a, d, n))
